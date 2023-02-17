@@ -24,7 +24,5 @@ Para rodar o projeto localmente:
 ```
 <yarn dev>
 ```
- 
-Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
 [⬆ Voltar ao topo](#waiterappFront)<br>
