@@ -14,7 +14,7 @@
 
 ## 🚀 Instalando <waiterapp Front>
 
-Para instalar o <waiterapp Front>, siga estas etapas:
+Para instalar o waiterapp Front, siga estas etapas:
 
 Para instalar as dependências:
 ```
