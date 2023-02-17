@@ -6,11 +6,8 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
 
-<img src="exemplo-image.png" alt="exemplo imagem">
-
-> Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
-
-## 🚀 Instalando <waiterapp Front>
+> O waiterapp Front-end monitora, consulta as informações e gerencia os status dos pedidos feitos pelo aplicativo.
+## 🚀 Instalando
 
 Para instalar o Waiterapp Front, siga estas etapas:
 
