@@ -1,4 +1,4 @@
-# Waiterapp front
+# Waiterapp Front-end
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
@@ -14,7 +14,7 @@
 
 ## 🚀 Instalando <waiterapp Front>
 
-Para instalar o waiterapp Front, siga estas etapas:
+Para instalar o Waiterapp Front, siga estas etapas:
 
 Para instalar as dependências:
 ```
